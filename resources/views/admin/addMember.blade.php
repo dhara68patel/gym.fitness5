@@ -13,7 +13,7 @@
     outline: 0;
     cursor: pointer
 }*/
-/*tyhthvbdldggd*/
+
 .accordion-container .article-title {
     display: block;
     position: relative;
